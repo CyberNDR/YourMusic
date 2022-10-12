@@ -12,6 +12,9 @@ git clone https://github.com/CyberNDR/YourMusic.git
 # change directory to YourMusic
 cd YourMusic
 
+# Install requirements
+pip install -r requirements.txt
+
 # Launch the tool
 python YourMusic.py
 ```
